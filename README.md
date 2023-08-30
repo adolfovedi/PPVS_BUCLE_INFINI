@@ -1,2 +1,2 @@
-# PPVS_BUCLE_INFINI
-BUCLE INFINITO PUNTEROS
+# SIS457PLANTASVSZOMBISUSFX-Los-unidos
+bucle infinitos con punteros

@@ -1,0 +1,32 @@
+﻿  Bala.cpp
+  Casa.cpp
+  Cercado.cpp
+  campoDeBatalla.cpp
+  cotapulta.cpp
+  Escenario.cpp
+  GameManager.cpp
+C:\Users\HP\Downloads\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\PPVZ USFX\GameManager.cpp(21,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Hielaguisantes.cpp
+  Lanzaguisantes.cpp
+  lanzaMaiz.cpp
+  Marigold.cpp
+C:\Users\HP\Downloads\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\PPVZ USFX\Marigold.cpp(15,23): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Pala.cpp
+  Planta.cpp
+  principal.cpp
+  Sunflower.cpp
+C:\Users\HP\Downloads\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\PPVZ USFX\Sunflower.cpp(16,19): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  TarjetaDePlantas.cpp
+  Tripitidora.cpp
+  Tripitidora3D.cpp
+  TwinSunflower.cpp
+C:\Users\HP\Downloads\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\PPVZ USFX\TwinSunflower.cpp(19,19): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Zombie.cpp
+  Generando código...
+C:\Users\HP\Downloads\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\PPVZ USFX\Casa.cpp(50): warning C4715: 'Casa::hayZombisDentro': no todas las rutas de acceso de control devuelven un valor
+  Compilando...
+  ZombieAbanderado.cpp
+  ZombieCaraCono.cpp
+  ZombieCaraCubo.cpp
+  Generando código...
+  PPVZ USFX.vcxproj -> C:\Users\HP\Downloads\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\SIS457PLANTASVSZOMBISUSFX-Los-unidos-main\x64\Debug\PPVZ USFX.exe
